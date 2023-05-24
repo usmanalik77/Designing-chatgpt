@@ -37,8 +37,8 @@ const Footer = () => (
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
         <p>Usman Ali Khan</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>+47 94445073</p>
+        <p>usmanalik77@gmail.com</p>
       </div>
     </div>
 
